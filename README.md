@@ -4,7 +4,9 @@ This is just a collection of my kwin scripts.
 
 ## Installation
 ```bash
-./install.sh <foldername>
+./install.sh [-g] <foldername>
+
+# -g installs globally (/usr/share)
 ```
 
 ## Scripts
