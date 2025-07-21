@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Name": "Virtual Desktops Only On Primary",
+        "Description": "Switchable virtual desktops only on the primary monitor",
+        "Icon": "preferences-desktop-virtual",
+        "Id": "virtual-desktops-only-on-primary6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/reyemxela/kwin-scripts",
+        "Authors": [
+            {
+                "Email": "alexwreyem@gmail.com",
+                "Name": "Alex Meyer"
+            }
+        ]
+    },
+    "X-Plasma-API": "javascript"
+}

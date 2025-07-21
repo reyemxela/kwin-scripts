@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Name": "Virtual Desktop Tiling Fix",
+        "Description": "Instantly un-tiles windows that were tiled, keeping tiled geometry. Temporary fix for #505684",
+        "Icon": "preferences-system-windows-move",
+        "Id": "virtual-desktop-tiling-fix",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/reyemxela/kwin-scripts",
+        "Authors": [
+            {
+                "Email": "alexwreyem@gmail.com",
+                "Name": "Alex Meyer"
+            }
+        ]
+    },
+    "X-Plasma-API": "javascript"
+}
